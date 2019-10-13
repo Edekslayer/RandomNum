@@ -9,6 +9,10 @@ public class RandomString
       nums.add("its");
       nums.add("your");
       nums.add("boi");
+      nums.add("hi");
+      nums.add("how");
+      nums.add("are");
+      nums.add("you");
       
       Collections.shuffle(nums); System.out.println(nums.get(1));
     }
